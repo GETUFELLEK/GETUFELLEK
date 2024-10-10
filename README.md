@@ -1,7 +1,5 @@
 # Hi there! 👋 I'm Getu Tadesse Fellek
 
-![Profile views](https://komarev.com/ghpvc/?username=GETUFELLEK&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/GETUFELLEK?label=FOLLOWERS)](https://github.com/GETUFELLEK?tab=followers)
 
 Welcome to my GitHub profile! I am an AI/ML Engineer with a passion for developing scalable, AI-driven solutions in areas like **multimodal systems**, **graph neural networks (GNNs)**, and **deep reinforcement learning (DRL)**.
 
@@ -57,7 +55,7 @@ Here are some exciting projects I've worked on:
 
 ---
 
-### 📊 GitHub Stats
+
 
 ![Getu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GETUFELLEK&show_icons=true&theme=radical)
 
