@@ -53,11 +53,6 @@ Here are some exciting projects I've worked on:
 - **[Voice Assistant Application](https://github.com/GETUFELLEK/voice-assistant-application/tree/main)**  
   A voice assistant application using **NLP models** and **speech recognition** to enhance human-computer interaction.
 
----
-
-
-
-![Getu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GETUFELLEK&show_icons=true&theme=radical)
 
 ---
 
