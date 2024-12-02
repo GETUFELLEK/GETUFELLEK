@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am an AI/ML Engineer with a passion for developi
 ---
 
 ### 👨‍💻 About Me
-- 🔭 **Current Role**: Research Engineer at **Reazon Holdings**, Japan.
+- 🔭 **Current Role**: AI Engineer at **Reazon Holdings**, Japan.
 - 🎓 **Education**: Doctor of Engineering, Major in information Systems **Waseda University**, Tokyo, Japan (May 2024).
 - 🌱 **Focus Areas**: Large language models (LLMs), multimodal learning, and AI applications to solve real world problems.
 - ⚡ **Fun Fact**: I love applying AI to **real-world problems** like drug-disease interaction predictions.
