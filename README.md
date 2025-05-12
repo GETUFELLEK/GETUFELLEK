@@ -1,19 +1,19 @@
-# Hi there! 👋 I'm Getu Tadesse Fellek
+# Hi there! I'm Getu Tadesse Fellek
 
 
 Welcome to my GitHub profile! I am an AI/ML Engineer with a passion for developing scalable, AI-driven solutions in areas like **multimodal systems**, **graph neural networks (GNNs)**, and **deep reinforcement learning (DRL)**.
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 **Current Role**: AI Engineer at **Reazon Holdings**, Japan.
-- 🎓 **Education**: Doctor of Engineering, Major in information Systems **Waseda University**, Tokyo, Japan (May 2024).
-- 🌱 **Focus Areas**: Large language models (LLMs), multimodal learning, and AI applications to solve real world problems.
-- ⚡ **Fun Fact**: I love applying AI to **real-world problems** like drug-disease interaction predictions.
+### About Me
+-  **Current Role**: AI Engineer at **Reazon Holdings**, Japan.
+-  **Education**: Doctor of Engineering, Major in information Systems **Waseda University**, Tokyo, Japan (May 2024).
+-  **Focus Areas**: Large language models (LLMs), multimodal learning, and AI applications to solve real world problems.
+-  **Fun Fact**: I love applying AI to **real-world problems** like drug-disease interaction predictions.
 
 ---
 
-### 🛠️ Skills
+###  Skills
 Here’s a snapshot of my technical skillset:
 
 #### Programming Languages
